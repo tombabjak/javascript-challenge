@@ -15,7 +15,7 @@ Multiple Search Categories (Optional)
 - WebPage: index.html 
 - Code: static/js/app.js 
     - Completes Level 1 criteria
-    - Uses multiple input tags and/or select dropdowns so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+    - Uses multiple input tags and/or select dropdowns so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
             date/time
             city
