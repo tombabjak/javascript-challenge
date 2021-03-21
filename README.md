@@ -11,9 +11,9 @@ Automatic Table and Date Search (Required)
     - Columns for date/time, city, state, country, shape, and comment
 
 dir UFO-level-2   
-Multiple Search Categories (Optional)   
-- WebPage: index.html 
-- Code: static/js/app.js 
+Multiple Search Categories (Optional)
+- WebPage: index.html
+- Code: static/js/app.js
     - Completes Level 1 criteria
     - Uses multiple input tags and/or select dropdowns so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
