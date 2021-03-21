@@ -3,14 +3,14 @@ Tom Babjak
 21March2021   
 Week 14: JavaScript Homework - JavaScript and DOM Manipulation
 
-dir UFO-level-1
+dir UFO-level-1   
 Automatic Table and Date Search (Required)   
 - WebPage: index.html 
 - Code: static/js/app.js 
     - Appends a table to the web page, then adds new rows of data for each UFO sighting
     - Columns for date/time, city, state, country, shape, and comment
 
-dir UFO-level-2
+dir UFO-level-2   
 Multiple Search Categories (Optional)   
 - WebPage: index.html 
 - Code: static/js/app.js 
