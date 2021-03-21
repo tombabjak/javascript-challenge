@@ -39,12 +39,12 @@ function runEnter() {
 
     // Use d3 to update each cell's text, with Arrow Functions
     filteredDate.forEach((ufoReport) => {
-        var row = tbody.append("tr");
-        Object.entries(ufoReport).forEach(([key, value]) => {
-          var cell = row.append("td");
-          cell.text(value);
-        });
+      var row = tbody.append("tr");
+      Object.entries(ufoReport).forEach(([key, value]) => {
+        var cell = row.append("td");
+        cell.text(value);
       });
+    });
 
 };
       
