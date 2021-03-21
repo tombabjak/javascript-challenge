@@ -22,3 +22,5 @@ Multiple Search Categories (Optional)
             state
             country
             shape
+
+Additional resource for Bonus: https://github.com/Pyligent/ufo_web_data
